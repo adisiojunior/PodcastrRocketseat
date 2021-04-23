@@ -1,9 +1,12 @@
-![favicon](https://user-images.githubusercontent.com/20409822/115924425-12885780-a456-11eb-9274-06882240374d.png)
+<h1 align="center">PODCAST</h1>
+![Uploading favicon.png…]()
 
+## fUNCIONAMENTO
 
 ![Sem título](https://user-images.githubusercontent.com/20409822/115924339-f684b600-a455-11eb-914e-cdd76f04ada5.png)
 
-
+#Proposta do Projeto:
+o podcast é uma mí­dia de transmissão de informações, porém a origem da mí­dia podcast é muito recente e ainda está em seu processo de crescimento, principalmente no Brasil, onde atinge poucas pessoas.E na NLW  podemos a oportunidade de desenvolver com REATC.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
